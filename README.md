@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Robofriends
+
+A simple application to get familiar with third party API calls and Redux implementation. [Demo](https://robofriends-f7727.web.app/)
 
 ## Available Scripts
 
